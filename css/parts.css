@@ -1,0 +1,85 @@
+/* EDITABLES */
+
+.editable
+{
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid transparent;
+}
+
+.editable-editor
+{
+	display: none;
+	padding: 5px;
+}
+
+.editable-viewer
+{
+	cursor: pointer;
+	color: #666; 
+	padding: 5px;
+}
+
+.editable-viewer-highlight
+{
+	padding: 0px;
+	border-radius: 3px;
+	background-color: #EEE;
+	border: 1px solid #AAA;
+}
+
+/* PARTS */
+
+.part
+{
+}
+
+.part-content
+{
+}
+
+.part-box
+{
+	margin-bottom: 5px;
+	border: 1px solid #999;
+	border-radius: 3px;
+	box-shadow: 0 2px 5px #999;
+	background-color: #FFF;
+	color: #666;
+}
+
+.part-box-loading
+{
+}
+
+.part-box-error
+{
+}
+
+.part-box-head
+{
+	font-size: 11pt;
+  padding: 10px;
+	margin: 0;
+	color: #FFF;
+	background-color: #547D50;
+}
+
+.part-box-body
+{
+	font-size: 10pt;
+    padding: 10px;
+	margin-bottom: 10px;
+}
+
+.part-body h1
+{
+	color: #8CC63F;
+}
+
+.part-body p
+{
+	max-width: 100%;
+	max-height: 150px;
+	overflow: auto;
+}

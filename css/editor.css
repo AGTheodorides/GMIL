@@ -1,0 +1,104 @@
+/* BIG AREA */
+
+.big-entry
+{
+	padding: 5px;
+}
+
+.big-title
+{
+	font-size: 20pt;
+}
+
+.big-definition
+{
+	font-size: 12pt;
+}
+
+.big-image IMG
+{
+	width: 150px;
+	height: 150px;
+	background-color: #FFF; 
+	box-shadow: 0px 0px 10px #547D50;
+}
+
+.big-category
+{
+	font-size: 12pt;
+	font-style: italic;
+}
+
+.big-theme
+{
+	font-size: 12pt;
+	font-style: italic;
+}
+
+.big-field-label
+{
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+/* DISCUSSION AREAS */
+
+.disc-entry
+{
+}
+
+.disc-title
+{
+}
+
+.disc-definition
+{
+}
+
+.disc-image
+{
+}
+
+.disc-category
+{
+}
+
+.disc-theme
+{
+}
+
+/* COMMENTS */
+
+.comment-label
+{
+}
+
+.comments
+{
+	max-width: 100%;
+	max-height: 500px;
+	overflow: auto;
+}
+
+/* STATISTICS */
+
+.stats
+{
+}
+
+/* VOTER */
+
+.voter
+{
+	font-size: 10pt;
+	text-align: center;
+	color: #384F19; /* Dark green */
+}
+
+.voter IMG
+{
+	width: 20px;
+	height: 10px;
+	margin: 0;
+	padding: 0;
+}

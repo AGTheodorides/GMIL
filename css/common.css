@@ -1,0 +1,151 @@
+/* WELCOME */
+
+.welcome-header
+{
+	margin-bottom: 25px;
+}
+
+.welcome-header IMG
+{
+	margin: 0;
+	padding: 0;
+	box-shadow: 0px 5px 5px #888;
+}
+
+.welcome-text
+{
+	padding: 10px;
+	background-color: #FFF;
+	box-shadow: 0px 5px 5px #888;
+}
+
+.welcome-form
+{
+	padding: 10px;
+	background-color: #FFF;
+	box-shadow: 0px 5px 5px #888;
+}
+
+.welcome-form h1
+{
+	color: #8CC63F;
+}
+
+
+/* LOGIN */
+
+.login
+{
+	position: relative;
+	text-align: left;
+	color: #666;
+}
+
+.login-badge
+{
+	position:absolute;
+	left:65%;
+	top:0;
+}
+
+.login IMG
+{
+	width: 20px;
+	height: 20px;
+	margin: 0;
+	padding: 0;
+	box-shadow: 0px 0px 10px #547D50;
+	background-color: #FFF; 
+}
+
+.login-head
+{
+	font-size: 7pt;
+	text-align: center;
+	cursor: pointer;
+	height: 40px;
+	padding: 5px;
+	color: #FFF
+}
+
+.login-body
+{
+	min-width: 175px;
+	position: absolute; 
+	right: 0px; 
+	zindex: 9999;
+	font-size: 10pt; 
+	padding: 5px; 
+	float: right; 
+	background-color: #FFF; 
+	border: 5px solid #547D50; 
+	display: none;
+}
+
+.login-highlight
+{
+	background-color: #85B04C; 
+}
+
+.login-selected
+{
+	background-color: #547D50; 
+}
+
+
+/* IAMGE VIEWER */
+
+.image-viewer
+{
+}
+
+.image-viewer IMG
+{
+	width: 150px;
+	height: 150px;
+	margin: 0;
+	padding: 0;
+	box-shadow: 0px 0px 10px #547D50;
+}
+
+/* IMAGE EDITOR */
+
+.image-editor
+{
+}
+
+.image-editor-box
+{
+	margin-bottom: 10px;
+}
+
+.image-editor-box IMG
+{
+	max-width: 200px;
+	max-height: 200px;
+	background-color: #FFF;
+	box-shadow: 0px 3px 10px #999;
+}
+
+.image-editor-help
+{
+	font-size: 8pt;
+}
+
+.image-editor-help ul
+{
+	padding-left: 20px;
+}
+
+/* TABLES */
+
+.table-row
+{
+}
+
+.table-row-highlight
+{
+	/*heighto: 50px;*/
+	background-color: #CCC;
+	cursor: pointer;
+}

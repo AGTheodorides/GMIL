@@ -1,0 +1,62 @@
+/* MAIN MENU */
+
+.main-menu
+{
+	width: 1000px;
+	margin: auto;
+	padding: 0;
+	font-size: 14pt;
+}
+
+.main-menu-item
+{
+	height: 50px;
+	color: #FFF; /* White */
+	padding-right: 10px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+
+.main-menu-item-highlight
+{
+	background-color: #85B04C;
+	color: #FFF;
+}
+
+.main-menu-item-selected
+{
+	background-color: #547D50;
+	color: #FFF;
+}
+
+/* SUB MENU */
+
+.sub-menu
+{
+	width: 1000px;
+	margin: auto;
+	color: #FFF;
+	background-color: #1E5799;
+	font-size: 11pt;
+	display: none;
+}
+
+.sub-menu-item
+{
+	height: 35px;
+	padding-right: 10px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+
+.sub-menu-item-highlight
+{
+	background-color: #174173;
+	color: #FFF;
+}
+
+.sub-menu-item-selected
+{
+	background-color: #113054;
+	color: #FFF;
+}
